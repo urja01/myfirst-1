@@ -6,3 +6,6 @@ card
 
 Thankyou:))
 Done:)
+Jsp
+Java
+Javascript
